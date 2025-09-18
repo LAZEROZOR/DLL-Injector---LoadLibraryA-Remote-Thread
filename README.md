@@ -9,7 +9,6 @@ It allocates memory in a target process, writes a DLL path, and executes `LoadLi
 - Find a process PID by its executable name.
 - Allocate and write the DLL path into the target process.
 - Invoke `LoadLibraryA` remotely with `CreateRemoteThread`.
-- Basic error reporting at each step.
 
 ## Requirements
 - Windows 10/11 (x64 or x86 build matching the target process).
