@@ -2,7 +2,7 @@
 //                                                               //
 //  Project : Dll injector                                       //
 //  Description : Inject a dll into a process using LoadLibraryA //
-//                and CreateRemoteThread                        //
+//                and CreateRemoteThread                         //
 //                                                               //
 //  Author      : LAZEROZOR                                      //
 //  License     : Open Source - Educational use only             //
